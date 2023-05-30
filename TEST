@@ -48,7 +48,7 @@ http://91.126.182.211:9981/stream/channelid/108126109?profile=pass
 http://91.126.182.211:9981/stream/channelid/125118391?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="IPTV_1", M+ CINE Ñ
 http://91.126.182.211:9981/stream/channelid/1199729987?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="IPTV_1",  M+ FEST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="IPTV_1", M+ FEST
 http://91.126.182.211:9981/stream/channelid/967563663?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M+ SERIES
 http://91.126.182.211:9981/stream/channelid/2017651828?profile=pass
