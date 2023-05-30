@@ -38,7 +38,7 @@ http://91.126.182.211:9981/stream/channelid/1296034809?profile=pass
 http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="IPTV_1", M+ ESTRENOS 2
 http://91.126.182.211:9981/stream/channelid/133041949?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="IPTV_1", M+ CLASICOS
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="IPTV_1", M+ CLÁSICOS
 http://91.126.182.211:9981/stream/channelid/2000258757?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="IPTV_1", M+ ACCIÓN
 http://91.126.182.211:9981/stream/channelid/249993271?profile=pass
@@ -58,7 +58,7 @@ http://91.126.182.211:9981/stream/channelid/638309047?profile=pass
 http://91.126.182.211:9981/stream/channelid/1349783680?profile=pass
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA", Canal Decasa
 http://91.126.182.211:9981/stream/channelid/2022731172?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="IPTV_1", CANAL Enfamilia
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="IPTV_1", Enfamilia
 http://91.126.182.211:9981/stream/channelid/881682523?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="IPTV_1", AMC BREAK
 http://91.126.182.211:9981/stream/channelid/777574468?profile=pass
@@ -66,7 +66,7 @@ http://91.126.182.211:9981/stream/channelid/777574468?profile=pass
 http://91.126.182.211:9981/stream/channelid/1083569034?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="IPTV_1", AXN WHITE
 http://91.126.182.211:9981/stream/channelid/1814606998?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="IPTV_1", WARNER TV
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="IPTV_1", WARNER
 http://91.126.182.211:9981/stream/channelid/1784949419?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="IPTV_1", COMEDY CENTRAL
 http://91.126.182.211:9981/stream/channelid/1252749659?profile=pass
