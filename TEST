@@ -46,7 +46,7 @@ http://91.126.182.211:9981/stream/channelid/249993271?profile=pass
 http://91.126.182.211:9981/stream/channelid/108126109?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="IPTV_1", M+ DRAMA
 http://91.126.182.211:9981/stream/channelid/125118391?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="IPTV_1", M+ CINE Ñ
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="IPTV_1", M+ CINE ESPAÑOL
 http://91.126.182.211:9981/stream/channelid/1199729987?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="IPTV_1", M+ FEST
 http://91.126.182.211:9981/stream/channelid/967563663?profile=pass
@@ -102,7 +102,7 @@ http://91.126.182.211:9981/stream/channelid/673227219?profile=pass
 http://91.126.182.211:9981/stream/channelid/1383452667?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png" group-title="IPTV_1", #VAMOS
 http://91.126.182.211:9981/stream/channelid/1399294887?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="IPTV_1", M. LA LIGA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="IPTV_1", M+ LA LIGA
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="IPTV_1", 2-M. LA LIGA
 http://91.126.182.211:9981/stream/channelid/1576358286?profile=pass
