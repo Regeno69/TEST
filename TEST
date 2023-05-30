@@ -80,7 +80,7 @@ http://91.126.182.211:9981/stream/channelid/1454274294?profile=pass
 http://91.126.182.211:9981/stream/channelid/203662261?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="IPTV_1", HOLLYWOOD
 http://91.126.182.211:9981/stream/channelid/754528997?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="IPTV_1", SUNDANCE
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="IPTV_1", SUNDANCE TV
 http://91.126.182.211:9981/stream/channelid/919050149?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="IPTV_1", PARAMOUNT CHANNEL
 http://91.126.182.211:9981/stream/channelid/343914200?profile=pass
