@@ -32,7 +32,7 @@ http://91.126.182.211:9981/stream/channelid/1474330923?profile=pass
 http://91.126.182.211:9981/stream/channelid/1862249458?profile=pass
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="IPTV_1", DMAX
 http://91.126.182.211:9981/stream/channelid/673466142?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="IPTV_1", MOVISTAR La Resistencia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="IPTV_1", La Resistencia
 http://91.126.182.211:9981/stream/channelid/1296034809?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="IPTV_1", M+ ESTRENOS
 http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
