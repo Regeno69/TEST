@@ -34,25 +34,25 @@ http://91.126.182.211:9981/stream/channelid/1862249458?profile=pass
 http://91.126.182.211:9981/stream/channelid/673466142?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/640px-Logo_La_Resistencia.png" group-title="IPTV_1", MOVISTAR La Resistencia
 http://91.126.182.211:9981/stream/channelid/1296034809?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="IPTV_1", M. ESTRENOS
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="IPTV_1", M+ ESTRENOS
 http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="IPTV_1", M. ESTRENOS 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="IPTV_1", M+ ESTRENOS 2
 http://91.126.182.211:9981/stream/channelid/133041949?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="IPTV_1", M. CLASICOS
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="IPTV_1", M+ CLASICOS
 http://91.126.182.211:9981/stream/channelid/2000258757?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="IPTV_1", M. ACCION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="IPTV_1", M+ ACCION
 http://91.126.182.211:9981/stream/channelid/249993271?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="IPTV_1", M. COMEDIA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="IPTV_1", M+ COMEDIA
 http://91.126.182.211:9981/stream/channelid/108126109?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="IPTV_1", M. DRAMA
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="IPTV_1", M+ DRAMA
 http://91.126.182.211:9981/stream/channelid/125118391?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="IPTV_1", M. CINE Ñ
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="IPTV_1", M+ CINE Ñ
 http://91.126.182.211:9981/stream/channelid/1199729987?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="IPTV_1",  M. FEST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="IPTV_1",  M+ FEST
 http://91.126.182.211:9981/stream/channelid/967563663?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M. SERIES
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M+ SERIES
 http://91.126.182.211:9981/stream/channelid/2017651828?profile=pass
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M. SERIES 2
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="IPTV_1", M+ SERIES 2
 http://91.126.182.211:9981/stream/channelid/638309047?profile=pass
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC", Canal Cocina
 http://91.126.182.211:9981/stream/channelid/1349783680?profile=pass
