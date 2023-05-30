@@ -88,7 +88,7 @@ http://91.126.182.211:9981/stream/channelid/343914200?profile=pass
 http://91.126.182.211:9981/stream/channelid/1774093782?profile=pass
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="IPTV_1", NAT GEO WILD
 http://91.126.182.211:9981/stream/channelid/2002577688?profile=pass
-#EXTINF:-1 tvg-logo="ht: group-title="IPTV_1", HISTORIA
+#EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2022/10/Nuevo-logo-Canal-HISTORIA.png" group-title="IPTV_1", HISTORIA
 http://91.126.182.211:9981/stream/channelid/554718047?profile=pass
 #EXTINF:-1 tvg-logo="https://www.tradingpedia.com/wp-content/uploads/2017/01/discovery-channel.png" group-title="IPTV_1", DISCOVERY
 http://91.126.182.211:9981/stream/channelid/1707164053?profile=pass
